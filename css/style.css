@@ -1,0 +1,14 @@
+
+body { font-size: 12px; text-align: left ; direction:ltr
+}
+
+#one {background: gray; }
+
+legend {font-size: 24px;color:white}
+
+input:invalid {
+ color: red;
+}
+input:valid {
+ color: green;
+}
